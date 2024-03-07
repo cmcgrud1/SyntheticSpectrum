@@ -8,3 +8,8 @@ This is the basis for the work done in McGruder et. al. 2022 (https://ui.adsabs.
 We used this technique to determine the most appropriate detrending approach for specific data sets.
 
 NOTE: The code for running the statistical tests on the synesthetic data will be posted in the future (currently on a hard drive in Cambridge, MA).  
+
+Packages required (outside of standard anaconda):
+batman - https://lkreidberg.github.io/batman/docs/html/index.html
+george - https://george.readthedocs.io/en/latest/tutorials/first/
+ldtk - https://github.com/hpparvi/ldtk/blob/master/README.md
